@@ -1,7 +1,7 @@
 class Capsled < Formula
   desc "Use the Caps Lock LED as a process activity indicator"
-  homepage "https://github.com/Sol-momma/capsled"
-  url "https://github.com/Sol-momma/capsled/releases/download/v0.1.0/capsled-macos-universal.tar.gz"
+  homepage "https://github.com/Sol-momma/lightsaber"
+  url "https://github.com/Sol-momma/lightsaber/releases/download/v0.1.0/capsled-macos-universal.tar.gz"
   sha256 "4ff2ab44913c1f45288081b5bc456b00e998ace44c296c53902cc1d62e1a649c"
   license "MIT"
 

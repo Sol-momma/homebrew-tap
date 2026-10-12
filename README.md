@@ -4,7 +4,7 @@ Homebrew formulae for projects maintained by [Sol-momma](https://github.com/Sol-
 
 ## capsled
 
-Install [capsled](https://github.com/Sol-momma/capsled) with one command:
+Install [capsled](https://github.com/Sol-momma/lightsaber) with one command:
 
 ```sh
 brew install Sol-momma/tap/capsled
